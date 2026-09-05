@@ -29,7 +29,7 @@
 ## 🧠 About Me
 
 * 🎓 B.Tech in **Computer Science and Engineering (Data Science)** at **Pragati Engineering College**
-* 📊 Current CGPA: **8.79**
+* 📊 Current CGPA: **8.8**
 * 💻 Former **Java Full Stack Developer Intern**
 * ☕ Passionate about **Java, Python, SQL, Spring Boot, Full-Stack Development, and Data Science**
 * 📊 Interested in **Data Analysis, Data Visualization, and Machine Learning**
@@ -87,7 +87,7 @@
 
 | Institution                                      | Qualification                                             | Score          | Year        |
 | ------------------------------------------------ | --------------------------------------------------------- | -------------- | ----------- |
-| **Pragati Engineering College**                  | B.Tech in Computer Science and Engineering (Data Science) | **CGPA: 8.79** | 2024 – 2027 |
+| **Pragati Engineering College**                  | B.Tech in Computer Science and Engineering (Data Science) | **CGPA: 8.8** | 2024 – 2027 |
 | **Bonam Venkata Chalamayya Engineering College** | Diploma in Computer Engineering                           | **89.11%**     | 2021 – 2024 |
 | **ZPP Girls’ High School, Andhra Pradesh**       | Secondary School Certificate                              | **507 Marks**  | 2016 – 2021 |
 
