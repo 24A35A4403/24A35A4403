@@ -2,7 +2,7 @@
 
 # Ganisetti Gayathri Devi 👩‍💻
 
-### 📊 Data Science Enthusiast | ☕ Java Developer | 💻 Full-Stack Developer
+### ☁️ Backend & Cloud Enthusiast | 🤖 AI/ML Explorer | 💻 Full-Stack Developer
 
 <p>
   <a href="https://github.com/">
