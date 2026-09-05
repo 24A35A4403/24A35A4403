@@ -65,12 +65,13 @@
 
 ## 🚀 Projects
 
-| Project                                                               | Description                                                                                                                                                                                                                                       | Link             |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| **ResumeIQ – AI-Powered Resume Analyzer & Role-Based Resume Builder** | Built a full-stack AI-powered resume optimization platform using React, Spring Boot, MySQL, Ollama, Qwen, and AWS. Includes authentication, resume upload, ATS scoring, job matching, AI-powered resume optimization, and PDF/DOCX resume export. | [GitHub Repo](#) |
-| **Code Snippet Repository**                                           | Developed a Spring Boot REST API application for storing, searching, and managing **500+ reusable code snippets** with a MySQL backend. Improved developer productivity by **30%**.                                                               | [GitHub Repo](#) |
+## 🚀 Projects
 
-> Replace `#` with your actual repository links.
+| Project | Description | Link |
+|---|---|---|
+| **ResumeIQ – AI-Powered Resume Analyzer & Role-Based Resume Builder** | Built a full-stack AI-powered resume optimization platform using React, Spring Boot, MySQL, Ollama, Qwen, and AWS. Includes authentication, resume upload, ATS scoring, job matching, AI-powered resume optimization, and PDF/DOCX resume export. | [GitHub Repo](https://github.com/24A35A4403/ResumeIQ-AI-Powered-Resume-Analyzer-Role-Based-Resume-Builder-) |
+| **Code Snippet Repository** | Developed a Spring Boot REST API application for storing, searching, and managing **500+ reusable code snippets** with a MySQL backend. Improved developer productivity by **30%**. | [GitHub Repo](https://github.com/24A35A4403/Code-Snippet-Repository) |
+| **A Novel Approach to X-Ray Image Protection Using a Map Sequence-Oriented Encryption and Decryption** | Research-based project focused on protecting medical X-ray images using a map-sequence-oriented encryption and decryption approach. | [GitHub Repo](https://github.com/24A35A4403/A-Novel-Approach-to-X-Ray-Image-Protection-Using-a-Map-Sequence-Oriented-Encryption-and-Decryption) |
 
 ---
 
