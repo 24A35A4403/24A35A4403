@@ -96,12 +96,16 @@
 ## 📫 Get In Touch
 
 Feel free to reach out for collaboration, projects, or just to say hi!
+## 📫 Get In Touch
+
+Feel free to reach out for collaboration, projects, or just to say hi!
 
 * 📧 **Email:** [ganisettigayathridevi@gmail.com](mailto:ganisettigayathridevi@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/)
-* 💻 **GitHub:** [github.com](https://github.com/)
-* 🧠 **LeetCode:** [leetcode.com](https://leetcode.com/)
-* 🟩 **HackerRank:** [hackerrank.com](https://www.hackerrank.com/)
+* 💼 **LinkedIn:** [linkedin.com/in/gayathri-ganisetti-23bb18363](https://www.linkedin.com/in/gayathri-ganisetti-23bb18363/)
+* 💻 **GitHub:** [github.com/24A35A4403](https://github.com/24A35A4403)
+* 🧠 **LeetCode:** [leetcode.com/u/G_Gaya3-210](https://leetcode.com/u/G_Gaya3-210/)
+* 🟩 **HackerRank:** [hackerrank.com/profile/24A35A4403](https://www.hackerrank.com/profile/24A35A4403)
+
 
 ---
 
